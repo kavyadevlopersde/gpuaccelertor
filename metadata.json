@@ -1,0 +1,6 @@
+{
+  "name": "PARAM-OPT Industrial Optimization Engine",
+  "description": "High-performance mathematical optimization solver engine for industrial linear, mixed-integer, and non-linear programming with interactive kinetic visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
